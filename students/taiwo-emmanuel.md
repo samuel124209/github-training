@@ -1,0 +1,1 @@
+Hello Everyone, my name's Emmanuel Taiwo. I'm currently a fullstack engineer, but tbh I'm just some guy who loves solving difficult problems that benefits others tech or not.
