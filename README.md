@@ -1,5 +1,5 @@
 # Github-training-assignment
-You'll be practicing the basic Git &amp; GitHub workflow used in real software projects. You will learn how to clone a repository, create a branch, make changes to files, commit your work, push your changes to GitHub, and open a pull request. The goal is to help you understand how version control works and how developers collaborate on shared projects.
+You'll be practicing the basic Git & GitHub workflow used in real software projects. You will learn how to clone a repository, create a branch, make changes to files, commit your work, push your changes to GitHub, and open a pull request. The goal is to help you understand how version control works and how developers collaborate on shared projects.
 
 ## Objective
 Practice the basic Git workflow:
@@ -23,3 +23,6 @@ Practice the basic Git workflow:
 
 ## Submission
 Submit the link to your pull request.
+
+## Important Notice‼️‼️‼️
+Before starting this assignment, you are required to watch the provided [YouTube tutorial](https://youtu.be/sT7nm3GVLjQ?si=DohKa6YhcRfkFnIQ). The tutorial explains the steps you will need to complete this task successfully. Please watch it carefully before you begin.
