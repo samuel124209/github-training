@@ -1,0 +1,1 @@
+Hello Everyone, my name is Vera Daniel. I'm currently a fullstack developer driven by curiosity, innovation, and a desire to understand or build how things work.
