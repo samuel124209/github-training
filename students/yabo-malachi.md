@@ -1,0 +1,1 @@
+Hi i am malachi Aatom yabo and i am an aspiring  data analyst. i am currently in the data analyst stack,mobile & software stack
